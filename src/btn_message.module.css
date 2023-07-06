@@ -1,0 +1,22 @@
+.size{
+    margin-top: 30px;
+}
+
+.btn_message{
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px 15px;
+
+    border: 3px solid black;
+    border-radius: 25px;
+    
+    color: white;
+    background: black;
+    text-decoration: none;
+    transition: color .2s linear;
+}
+
+.btn_message:hover{
+    background-color: white;
+    color: black;
+}

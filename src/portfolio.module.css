@@ -1,0 +1,15 @@
+.portfolio_size{
+    background-color: #f6f6f6;
+    width: 100%;
+    height: 800px;
+    display: block;
+}
+
+.portfolio_inner{
+    margin: 0 auto;
+    height: 100%;
+}
+
+.text_mt30{
+    margin-top: 40px;
+}

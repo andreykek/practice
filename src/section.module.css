@@ -1,0 +1,27 @@
+.section_size{
+    background-color: #F6F6F6;
+    width: 100%;
+    height: 506px;
+    display: block;
+}
+
+.section_inner{
+    margin: 0 auto;
+    height: 100%;
+}
+
+.section_mod{
+    height: 700px;
+}
+
+.section_mod_end{
+    height: 900px;
+}
+
+.section_mod_contacts{
+    height: 500px;
+}
+
+.section_mod_color{
+    background-color: #fff;
+}

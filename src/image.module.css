@@ -1,0 +1,44 @@
+.size_image{
+    width: 943.61px;
+    height: 510px;
+    left: 2256px;
+    top: 276.94px;
+    margin: 0 auto;
+}
+
+.size_image_for_intro{
+    width: 943.61px;
+    height: 387px;
+    left: 2256px;
+    top: 276.94px;
+    margin: 0 auto;
+}
+
+.size_image_contacts{
+    width: 342.1840515136719px;
+    height: 40.91845703125px;
+    top: 4515.783203125px;
+    left: 552.2919921875px;
+}
+
+.size_image_for_my_program{
+    width: 1000px;
+    height: 210px;
+    margin: 0 auto;
+    padding-left: 20%;
+    
+}
+
+.size_image_for_my_program_item{
+    width: 170px;
+    height: 207px;
+
+    margin-left: 10px;
+}
+
+.size_image_for_portfolio{
+    width: 936.2395629882812px;
+    height: 510px;
+    top: 2087px;
+    left: 257.71337890625px;
+}

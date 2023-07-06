@@ -1,0 +1,23 @@
+.text_settings{
+    width: 485px;
+    height: 250px;
+
+    text-align: center;
+    margin: 0 auto;
+
+    line-height: 0.4;
+}
+
+.text_mod{
+    height: 120px;
+}
+
+.text_item{
+    height: 50px;
+    padding-top: 30px;
+}
+
+.text_item_end{
+    color: #828282;
+    font-size: 14px;
+} 
